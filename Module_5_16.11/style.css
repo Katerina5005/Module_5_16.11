@@ -1,0 +1,27 @@
+body {
+    background-color: #7fa8dd;
+    
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    text-align: center;
+    width: 220px;
+    padding: 10px;
+    margin: 100px;
+    border: 2px solid #aac8ef;
+}
+
+#cub {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 50px;
+}
+
+input, button {
+    border-radius: 3px;
+}
